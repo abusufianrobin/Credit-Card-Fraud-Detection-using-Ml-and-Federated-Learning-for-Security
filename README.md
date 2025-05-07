@@ -8,6 +8,10 @@ transaction details.
 
 Dataset link: https://drive.google.com/file/d/1mEwkZVPmuqElp3WNqTpzJCyh3D_pu0BK/view?usp=sharing 
 
+For Details about Receiver-operating characteristic curve (ROC) : 
+
+      References Resource Link: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=need%20different%20tools.-,Receiver%2Doperating%20characteristic%20curve%20(ROC),holdover%20from%20WWII%20radar%20detection 
+
 🤖 Machine Learning Project - Setup and Run Guide
 This section explains how to set up and run the ML part of this project using a Python virtual environment (venv). 
 
