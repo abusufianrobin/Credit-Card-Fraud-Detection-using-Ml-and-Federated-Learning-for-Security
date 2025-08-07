@@ -38,5 +38,5 @@ GitHub: @abusufianrobin
 Email: abusufian02robin@gmail.com
 
 📄 License
-This project is licensed under the MIT License. <img width="845" height="464" alt="CKKS Dataflow" src="https://github.com/user-attachments/assets/405e5b31-f247-4708-b6cb-08eb46d89ba5" />
+This project is licensed under the MIT License.
 
