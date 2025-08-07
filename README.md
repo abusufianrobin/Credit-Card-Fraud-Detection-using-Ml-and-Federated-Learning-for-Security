@@ -6,7 +6,7 @@ share raw transaction data due to privacy concerns, we implement a federated lea
 approach, where multiple banks contribute to training the model without exchanging actual 
 transaction details. 
 
-Dataset link: (https://drive.google.com/file/d/1XfEFyHwPwXUJmxvjEUq5N-lOJ1I4zRxI/view?usp=sharing) 
+Dataset link: https://drive.google.com/file/d/1XfEFyHwPwXUJmxvjEUq5N-lOJ1I4zRxI/view?usp=sharing
 
 For Details about Receiver-operating characteristic curve (ROC) : 
 
