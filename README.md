@@ -28,6 +28,7 @@ This section explains how to set up and run the ML part of this project using a 
 
 5. Run the ML Application
        python app.py
+<img width="845" height="464" alt="CKKS Dataflow" src="https://github.com/user-attachments/assets/e54b470e-3e94-4a0d-beaa-79eb5aa1db28" />
 
 
 📋 Author
