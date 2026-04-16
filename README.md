@@ -29,6 +29,59 @@ This section explains how to set up and run the ML part of this project using a 
 5. Run the ML Application
        python app.py
 
+---
+
+## 📊 Model Performance & Evaluation
+
+This section presents the performance evaluation of the **Credit Card Fraud Detection System**, including both **Machine Learning (ML)** and **Federated Learning (FL)** approaches.
+
+---
+
+### 🔹 Federated Learning Training Performance
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abusufianrobin/Credit-Card-Fraud-Detection-using-Ml-and-Federated-Learning-for-Security/DataPreProcessing/FL%20data%20training%20loss%20and%20accuracy.png" width="700"/>
+</p>
+
+<p align="center">
+  <em>Training loss and accuracy progression in Federated Learning</em>
+</p>
+
+---
+
+### 🔹 ROC Curve Analysis (ML Model)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abusufianrobin/Credit-Card-Fraud-Detection-using-Ml-and-Federated-Learning-for-Security/DataPreProcessing/ML%20ROC%20Curve.PNG" width="700"/>
+</p>
+
+<p align="center">
+  <em>ROC curve demonstrating classification performance of the ML model</em>
+</p>
+
+---
+
+### 🔹 Data Splitting Strategy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abusufianrobin/Credit-Card-Fraud-Detection-using-Ml-and-Federated-Learning-for-Security/DataPreProcessing/ML%20Split%20Data.PNG" width="700"/>
+</p>
+
+<p align="center">
+  <em>Training and testing data distribution</em>
+</p>
+
+---
+
+### 🔹 Accuracy & Classification Report
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abusufianrobin/Credit-Card-Fraud-Detection-using-Ml-and-Federated-Learning-for-Security/DataPreProcessing/ROC%20Accuracy%20Score%20report.PNG" width="700"/>
+</p>
+
+<p align="center">
+  <em>Model accuracy, precision, recall, and F1-score evaluation</em>
+</p>
 
 📋 Author
 Name: Abu Sufian Robin
