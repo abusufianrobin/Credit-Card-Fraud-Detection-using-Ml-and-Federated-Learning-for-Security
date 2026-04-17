@@ -83,6 +83,15 @@ This section presents the performance evaluation of the **Credit Card Fraud Dete
   <em>Model accuracy, precision, recall, and F1-score evaluation</em>
 </p>
 
+---
+
+## 🎥 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/0rdVEIsVn48/0.jpg)](https://www.youtube.com/watch?v=0rdVEIsVn48)
+
+> Click the image above to watch the full demo on YouTube.
+
+
 📋 Author
 Name: Abu Sufian Robin
 
